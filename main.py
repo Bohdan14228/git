@@ -6,3 +6,4 @@ print(5)
 rtfrhfghf
 afdfaa
 print(666)
+print(5)
