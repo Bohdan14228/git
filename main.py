@@ -1,12 +1,12 @@
-print(3 + 4)
+print(67 + 4)
 print(5)
 print(3 + 4)
-print(5)
+print(67)
 
 rtfrhfghf
 afdfaa
-print(666)
+print(676)
 print(5)
-print(777)
+print(787)
 print(88)
-cdcjcnbbnb
+fhjkhjkjbvk
