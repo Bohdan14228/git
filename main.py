@@ -5,7 +5,7 @@ print(67)
 
 rtfrhfghf
 afdfaa
-print(666)
+print(676)
 print(5)
 print(777)
 print(88)
